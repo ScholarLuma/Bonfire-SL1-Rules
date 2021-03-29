@@ -47,8 +47,8 @@ First Header | Second Header | N/A
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
------------- | ------------- | ------------- 
-Content from cell 1 | Content from cell 2
+------------ | ------------- |
+Content from cell 1 | Content from cell 2 | a
 Content in the first column | Content in the second column
 
 ### Join The Bonfire
