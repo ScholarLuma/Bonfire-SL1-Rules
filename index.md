@@ -48,8 +48,14 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 ------------ | ------------- |
-Content from cell 1 | Content from cell 2 | a
-Content in the first column | Content in the second column
+*Demon’s Souls* | N/A | N/A
+*Dark Souls I* | N/A | N/A
+*Dark Souls II* | N/A | N/A
+*Dark Souls III* | N/A | N/A
+*Bloodborne* | N/A | N/A
+*Sekiro* | N/A | N/A
+
+Since there is not a time set for any roles currently, any time quicker than 4:00:00 for BB will count. For DS1-3, any time quicker than 7:00:00 will count.
 
 ### Join The Bonfire
 
