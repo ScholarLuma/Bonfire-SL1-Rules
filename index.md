@@ -1,4 +1,4 @@
-### Bonfire SL1/BL4 Guidelines
+# Bonfire SL1/BL4 Guidelines
 
 You can use the [editor on GitHub](https://github.com/ScholarLuma/Bonfire-SL1-Rules/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
