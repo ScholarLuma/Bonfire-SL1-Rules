@@ -8,7 +8,7 @@
 * Dark Souls III.
 * Bloodborne.
 
-# Banned Criteria
+### Banned Criteria
 
 * Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn’t mean you can’t do Sirris’ or Anri’s quest since you are summoned into their world for their quests (these are not your bossfights, so they don’t count). This is also the case for Biorr of the Twin Fangs vs the Penetrator.
  * Exceptions:
@@ -20,7 +20,7 @@ Unless required by the criteria for a run, it is not allowed to obtain items bef
 
 Cheating and cheesing during gameplay is allowed in Champion runs but is disqualifiable in Legend runs. Turning on iframes, tumblebuffing, kills outside the bosses’ arenas, messing with the stats, breaking the AI so it becomes unable to harm you… Any of this, or anything similar, will result in a disqualification. Please ask if you are uncertain about what is allowed and what isn’t.
 
-# Proof for SL1 Champion of Dark Souls I, II or III | SL1 Slayer of Demon’s Souls | BL4 First Hunter of Bloodborne
+### Proof for SL1 Champion of Dark Souls I, II or III | SL1 Slayer of Demon’s Souls | BL4 First Hunter of Bloodborne
 **You must beat all boss fights -including DLCs- then show proof.**
 
 You have **three** choices in order to show proof:
@@ -29,7 +29,7 @@ You have **three** choices in order to show proof:
 
   * Make a gallery of **full** screenshots (no cropping or editing will be allowed) of your character stats, all boss souls, all bonfires or empty boss arenas. This will prove you defeated each of them. See the page for the game you are playing for specific requirements as this varies by game.
 
-# Proof for SL1 Legend of Dark Souls I, II or III | SL1 Monumental of Demon’s Souls | BL4 Great One of Bloodborne
+### Proof for SL1 Legend of Dark Souls I, II or III | SL1 Monumental of Demon’s Souls | BL4 Great One of Bloodborne
 
 *Legends runs are SL1 runs with one or more handicaps to make it harder. Check the games’ pages for a list of what counts, and what doesn’t. If you have any doubts, ask the server mods.*
 
@@ -37,10 +37,10 @@ To prove and verify this challenge, you need to beat and record/stream all boss 
 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to take much longer.
 
-# Speediest Roles
+### Speediest Roles
 You can obtain a special role if you are the fastest player in the server to complete a SL1 or BL4 run in any of the games -all bosses-. However, if someone beats your time, you will lose the role.
 
-# Speediest Players Hall of Fame
+### Speediest Players Hall of Fame
 
 First Header | Second Header | N/A
 ------------ | -------------
