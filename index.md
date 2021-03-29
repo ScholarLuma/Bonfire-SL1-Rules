@@ -2,11 +2,11 @@
 
 *Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.*
 
-1. Demon’s Souls
-2. Dark Souls or Dark Souls: Remastered.
-3. Dark Souls II or Dark Souls II: Scholar of the First Sin.
-4. Dark Souls III.
-5. Bloodborne.
+* Demon’s Souls
+* Dark Souls or Dark Souls: Remastered.
+* Dark Souls II or Dark Souls II: Scholar of the First Sin.
+* Dark Souls III.
+* Bloodborne.
 
 ### Markdown
 
