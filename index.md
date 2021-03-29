@@ -2,7 +2,7 @@
 
 *Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.*
 
-* Demon’s Souls
+* Demon’s Souls.
 * Dark Souls or Dark Souls: Remastered.
 * Dark Souls II or Dark Souls II: Scholar of the First Sin.
 * Dark Souls III.
@@ -42,24 +42,15 @@ You can obtain a special role if you are the fastest player in the server to com
 
 # Speediest Players Hall of Fame
 
+First Header | Second Header | N/A
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+aaaa
+```
 
 ### Join The Bonfire
 
-**https://discord.gg/QH6gehF**
+[link](https://discord.gg/QH6gehF)
