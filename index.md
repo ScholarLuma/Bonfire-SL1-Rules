@@ -8,6 +8,10 @@
 * Dark Souls III.
 * Bloodborne.
 
+# How do I submit my run(s)?
+
+Please DM Luma#0002 on Discord and submit your run to them.
+
 ### Banned Criteria
 
 * Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn’t mean you can’t do Sirris’ or Anri’s quest since you are summoned into their world for their quests (these are not your bossfights, so they don’t count). This is also the case for Biorr of the Twin Fangs vs the Penetrator.
@@ -42,11 +46,6 @@ You can obtain a special role if you are the fastest player in the server to com
 
 ### Speediest Players Hall of Fame
 
-First Header | Second Header | N/A
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 ------------ | ------------- |
 *Demon’s Souls* | N/A | N/A
 *Dark Souls I* | N/A | N/A
@@ -54,8 +53,6 @@ Content in the first column | Content in the second column
 *Dark Souls III* | N/A | N/A
 *Bloodborne* | N/A | N/A
 *Sekiro* | N/A | N/A
-
-Since there is not a time set for any roles currently, any time quicker than 4:00:00 for BB will count. For DS1-3, any time quicker than 7:00:00 will count.
 
 ### Join The Bonfire
 
