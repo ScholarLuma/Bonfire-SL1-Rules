@@ -1,8 +1,12 @@
 # Bonfire SL1/BL4 Guidelines
 
-You can use the [editor on GitHub](https://github.com/ScholarLuma/Bonfire-SL1-Rules/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Demon’s Souls
+2. Dark Souls or Dark Souls: Remastered.
+3. Dark Souls II or Dark Souls II: Scholar of the First Sin.
+4. Dark Souls III.
+5. Bloodborne.
 
 ### Markdown
 
